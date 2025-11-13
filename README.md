@@ -7,7 +7,7 @@
   <!-- Animated Subtitle with Gradient -->
   <h3 align="center">
     <span style="background: linear-gradient(45deg, #4285F4, #34A853, #FBBC05, #EA4335); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 600;">
-      Full Stack Developer • Mobile App Specialist • Flutter & Mobile App Expert|| AI Enthuntiast
+      Full Stack Developer • Mobile App Specialist • Flutter & Python Expert
     </span>
   </h3>
 
@@ -29,8 +29,8 @@
       Currently exploring <strong>advanced mobile architectures</strong>, <strong>database optimization</strong>, and <strong>AI integration</strong>.
     </p>
     
-    <!-- Enhanced Animated Code Icon -->
-    <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+    <!-- REPLACED: Working Animated Code Icon -->
+    <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/coder.gif" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
   </div>
 </div>
 
@@ -134,6 +134,18 @@
 
 <br/>
 
+<!-- Contribution Snake Animation -->
+<div align="center">
+  
+  ### 📈 Contribution Graph
+  
+  <!-- REPLACED: Alternative working snake animation -->
+  <img src="https://raw.githubusercontent.com/WadaDiriba/WadaDiriba/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+  
+</div>
+
+<br/>
+
 <!-- Enhanced Connect Section -->
 <div align="center">
   
@@ -185,18 +197,16 @@
     "Innovation distinguishes between a leader and a follower." - Steve Jobs
   </p>
   
-  <!-- Animated Footer -->
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <!-- REPLACED: Working animated footer GIF -->
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/handshake.gif" width="60"> 
   <p style="font-weight: 600;">
     <i>Let's connect and build the future together! 🌟</i>
   </p>
-
-  <!-- Contribution Snake -->
-  ![Snake animation](https://github.com/WadaDiriba/WadaDiriba/blob/output/github-contribution-grid-snake.svg)
 </div>
-<br/>
 
-<!-- Portfolio Section -->
+
+
+
 <div align="center">
   ### 🌟 My Portfolio
   <p>Check out my full projects and apps on my portfolio website.</p>
@@ -204,15 +214,3 @@
     <img src="https://img.shields.io/badge/Visit%20Portfolio-FF6C37?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
-
-<!-- Add some custom styles for better appearance -->
-<style>
-  .header-animation {
-    animation: fadeIn 2s ease-in-out;
-  }
-  
-  @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(-20px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-</style>
