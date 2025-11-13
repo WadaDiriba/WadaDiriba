@@ -7,7 +7,7 @@
   <!-- Animated Subtitle with Gradient -->
   <h3 align="center">
     <span style="background: linear-gradient(45deg, #4285F4, #34A853, #FBBC05, #EA4335); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 600;">
-      Full Stack Developer • Mobile App Specialist • Flutter & Python Expert
+      Full Stack Developer • Mobile App Specialist • Flutter & Mobile App Expert|| AI Enthuntiast
     </span>
   </h3>
 
@@ -193,6 +193,16 @@
 
   <!-- Contribution Snake -->
   ![Snake animation](https://github.com/WadaDiriba/WadaDiriba/blob/output/github-contribution-grid-snake.svg)
+</div>
+<br/>
+
+<!-- Portfolio Section -->
+<div align="center">
+  ### 🌟 My Portfolio
+  <p>Check out my full projects and apps on my portfolio website.</p>
+  <a href="https://wadadiriba.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-FF6C37?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
 <!-- Add some custom styles for better appearance -->
