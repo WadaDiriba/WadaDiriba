@@ -23,7 +23,7 @@
   
   <div style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
     <p align="center" style="max-width: 600px;">
-      Passionate <strong>Full-Stack Developer</strong> specializing in <strong>Flutter</strong>, <strong>Python</strong>, and <strong>C++</strong>. 
+      Passionate <strong>Full-Stack Developer</strong> specializing in <strong>Flutter</strong>, 
       I transform complex challenges into <strong>elegant, scalable solutions</strong>. 
       Currently exploring <strong>advanced mobile architectures</strong>, <strong>database optimization</strong>, and <strong>AI integration</strong>.
     </p>
