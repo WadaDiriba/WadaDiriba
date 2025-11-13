@@ -1,178 +1,208 @@
-<!-- Header Section with Animated Background -->
+<!-- Header Section with Enhanced Animations -->
 <div align="center">
   
-  <!-- Animated Banner -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
-  
-  <!-- Animated Title -->
-  <h1 align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-    Hi there, I'm Wada Diriba
-  </h1>
-  
-  <!-- Animated Subtitle -->
+  <!-- Enhanced Animated Banner -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=✨+Wada+Diriba+✨" alt="Animated Header" />
+
+  <!-- Animated Subtitle with Gradient -->
   <h3 align="center">
-    <span style="color: #4285F4">Full Stack Developer</span> • 
-    <span style="color: #34A853">Mobile App Specialist</span> • 
-    <span style="color: #FBBC05">Flutter, Python & AI Enthusiast</span>
+    <span style="background: linear-gradient(45deg, #4285F4, #34A853, #FBBC05, #EA4335); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 600;">
+      Full Stack Developer • Mobile App Specialist • Flutter & Python Expert
+    </span>
   </h3>
-  
+
   <!-- Animated Divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
 <br/>
 
-<!-- About Section -->
+<!-- Enhanced About Section -->
 <div align="center">
   
   ### 🚀 About Me
   
-  <p align="center">
-    Passionate developer crafting digital experiences with <strong>Flutter</strong>, <strong>Python</strong>, and <strong>C++</strong>. 
-    I transform complex problems into elegant, user-friendly solutions. 
-    Currently exploring advanced mobile app architectures, databases, and scalable web technologies.
-  </p>
-  
-  <!-- Animated Code Icon -->
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
+    <p align="center" style="max-width: 600px;">
+      Passionate <strong>Full-Stack Developer</strong> specializing in <strong>Flutter</strong>, <strong>Python</strong>, and <strong>C++</strong>. 
+      I transform complex challenges into <strong>elegant, scalable solutions</strong>. 
+      Currently exploring <strong>advanced mobile architectures</strong>, <strong>database optimization</strong>, and <strong>AI integration</strong>.
+    </p>
+    
+    <!-- Enhanced Animated Code Icon -->
+    <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+  </div>
 </div>
 
 <br/>
 
-<!-- Tech Stack Section -->
-<div>
+<!-- Enhanced Tech Stack Section -->
+<div align="center">
   
   ### 🛠️ Tech Stack & Expertise
   
-  <!-- Programming Languages -->
-  <h4>💻 Programming Languages</h4>
-  
-  <div align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <!-- Programming Languages with Hover Effects -->
+  <h4>🚀 Programming Languages</h4>
+  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="Python"/>
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=000000" alt="Dart"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=000000" alt="Java"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000" alt="C++"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000" alt="TypeScript"/>
   </div>
-  
+
   <!-- Frameworks & Libraries -->
   <h4>📚 Frameworks & Libraries</h4>
-  
-  <div align="center">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000" alt="Flutter"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000" alt="React"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" alt="Express.js"/>
   </div>
-  
-  <!-- Databases & Cloud -->
+
+  <!-- Enhanced Databases & Cloud Section -->
   <h4>🗄️ Databases & Cloud</h4>
-  
-  <div align="center">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=000000" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=000000" alt="SQLite"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000" alt="AWS"/>
   </div>
-  
+
   <!-- Tools & Platforms -->
   <h4>⚙️ Tools & Platforms</h4>
-  
-  <div align="center">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" alt="Docker"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000" alt="Postman"/>
   </div>
 </div>
 
 <br/>
 
-<!-- Learning Section -->
+<!-- Enhanced Learning Section -->
 <div align="center">
   
   ### 📖 Currently Exploring
   
-  <div align="center">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
-    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Flutter_Databases-02569B?style=for-the-badge&logo=firebase&logoColor=white" alt="Flutter DB"/>
-    <img src="https://img.shields.io/badge/Kotlin_Databases-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin DB"/>
+  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000" alt="REST API"/>
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=000000" alt="GraphQL"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Flutter_Databases-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000" alt="Flutter DB"/>
+    <img src="https://img.shields.io/badge/Machine_Learning-FF6B6B?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="Machine Learning"/>
   </div>
 </div>
 
 <br/>
 
-<!-- GitHub Stats Section -->
+<!-- Enhanced GitHub Stats Section -->
 <div align="center">
   
   ### 📊 GitHub Analytics
   
-  <div align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WadaDiriba&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Wada's GitHub Stats"/>
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WadaDiriba&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages"/>
+  <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=WadaDiriba&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true" alt="Wada's GitHub Stats"/>
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WadaDiriba&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" alt="Top Languages"/>
   </div>
   
-  <div align="center">
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=WadaDiriba&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-  </div>
+  <br/>
   
   <div align="center">
-    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=WadaDiriba&theme=react-dark&bg_color=0D1117&hide_border=true&color=58A6FF&line=58A6FF&point=FFFFFF" alt="GitHub Activity Graph"/>
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=WadaDiriba&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+  </div>
+  
+  <br/>
+  
+  <div align="center">
+    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=WadaDiriba&theme=react-dark&bg_color=0D1117&hide_border=true&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="GitHub Activity Graph"/>
+  </div>
+
+  <!-- GitHub Trophy -->
+  <div align="center">
+    <img width="90%" src="https://github-profile-trophy.vercel.app/?username=WadaDiriba&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" alt="GitHub Trophies"/>
   </div>
 </div>
 
 <br/>
 
-<!-- Connect Section -->
+<!-- Enhanced Connect Section -->
 <div align="center">
   
-  ### 🌐 Let's Connect
-  <p align="center">
-    I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+  ### 🌐 Let's Connect & Collaborate
+  
+  <p align="center" style="font-size: 1.1em;">
+    💡 <strong>Open to exciting projects, innovative ideas, and tech discussions!</strong><br/>
+    Let's create something extraordinary together! 🚀
   </p>
   
-  <div align="center">
+  <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
     <a href="https://www.linkedin.com/in/WadaDiriba" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
     </a>
     <a href="https://twitter.com/WadaDiriba" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="Twitter"/>
     </a>
     <a href="mailto:your-email@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail"/>
     </a>
     <a href="https://youtube.com/@YourChannel" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" alt="YouTube"/>
     </a>
     <a href="https://medium.com/@YourUsername" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000" alt="Medium"/>
+    </a>
+    <a href="https://github.com/WadaDiriba" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
     </a>
   </div>
 </div>
 
 <br/>
 
-<!-- Footer Section -->
+<!-- Enhanced Footer Section -->
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=WadaDiriba&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
-  
+  <!-- Visitor Counter -->
+  <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+    <img src="https://komarev.com/ghpvc/?username=WadaDiriba&label=Profile+Views&color=58A6FF&style=for-the-badge&labelColor=000000" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/WadaDiriba?label=Followers&style=for-the-badge&color=58A6FF&labelColor=000000" alt="GitHub Followers"/>
+  </div>
+
+  <!-- Animated Divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
   
-  <p align="center">
-    <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+  <!-- Inspirational Quote -->
+  <p align="center" style="font-style: italic; font-size: 1.1em; background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    "Innovation distinguishes between a leader and a follower." - Steve Jobs
   </p>
   
+  <!-- Animated Footer -->
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <p><i>Let's connect and build something amazing together!</i></p>
+  <p style="font-weight: 600;">
+    <i>Let's connect and build the future together! 🌟</i>
+  </p>
+
+  <!-- Contribution Snake -->
+  ![Snake animation](https://github.com/WadaDiriba/WadaDiriba/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+<!-- Add some custom styles for better appearance -->
+<style>
+  .header-animation {
+    animation: fadeIn 2s ease-in-out;
+  }
+  
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+</style>
