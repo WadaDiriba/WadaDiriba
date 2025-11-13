@@ -203,6 +203,8 @@
   </p>
 </div>
 
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=WadaDiriba&theme=radical&row=1&column=5" alt="Trophies"/>
 
 
 
@@ -213,3 +215,7 @@
     <img src="https://img.shields.io/badge/Visit%20Portfolio-FF6C37?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
+<h4>🏆 Achievements</h4>
+<img src="https://img.shields.io/badge/Google%20Flutter%20Certified-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Top%20GitHub%20Contributor-181717?style=for-the-badge&logo=github&logoColor=white">
+
