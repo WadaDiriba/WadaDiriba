@@ -14,7 +14,7 @@
   <h3 align="center">
     <span style="color: #4285F4">Full Stack Developer</span> • 
     <span style="color: #34A853">Mobile App Specialist</span> • 
-    <span style="color: #FBBC05">Flutter & Python Evangelist</span>
+    <span style="color: #FBBC05">Flutter & Python Enthusiast</span>
   </h3>
   
   <!-- Animated Divider -->
