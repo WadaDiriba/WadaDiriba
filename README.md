@@ -5,12 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=✨+Wada+Diriba+✨" alt="Animated Header" />
 
   <!-- Animated Subtitle with Gradient -->
-  <h3 align="center">
-    <span style="background: linear-gradient(45deg, #4285F4, #34A853, #FBBC05, #EA4335); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 600;">
-      Full Stack Developer • Mobile App Specialist • Flutter & Python Expert
-    </span>
+ <h3 align="center">
+    <span style="color: #4285F4">Full Stack Developer</span> • 
+    <span style="color: #34A853">Mobile App Specialist</span> • 
+    <span style="color: #FBBC05">Flutter, Python & AI Enthusiast</span>
   </h3>
-
   <!-- Animated Divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
